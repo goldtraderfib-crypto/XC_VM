@@ -2,3 +2,10 @@
 CLAUDE.md
 dist/
 .DS_Store
+
+# Large binary files - download from releases instead
+xc_vm.tar.gz
+*.tar.gz
+
+# Credentials - sensitive data
+credentials.txt
